@@ -92,7 +92,7 @@ li {
     float: right;
     margin-left: 40px;
     margin-right: 50px;
-    height: 300px
+    height: 350px
 }
 
 .contact img {
@@ -109,6 +109,7 @@ body {
     background-image: url('/assets/images/back4.jpeg');
     border:5px solid white;
     border-radius: 5px;
+    
 }
 
 .product-image {
