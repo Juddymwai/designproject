@@ -1,0 +1,136 @@
+/* 
+ul{
+    
+    float: right;
+    
+}
+.header p {
+    display: flex;
+    
+}
+.about {
+
+}
+#chef{
+    float: right;
+}
+p.About{
+    min-height: 300px;
+    width: 50%;
+    color
+}
+#map{
+    
+}
+
+
+.products{
+    
+}
+.product img {
+    display: flex;
+    
+};
+#image1{
+    float: left;
+    height:200px;
+    width: 300px;
+}
+#image2{
+    float: right;
+    height:200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
+#image3{
+    float: left;
+    height:200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
+#image4{
+    float: right;
+    height:200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
+#image5{
+    float: left;
+    height:200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
+#image6{
+    float: right;
+    height:200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
+.contact{
+*/
+
+h1 {
+    color: rgb(143, 73, 73);
+}
+nav {
+    background-color: rgb(93, 38, 145);
+}
+li {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    float: right;
+    margin: 0 20px 10px 0;
+    list-style: none;
+    color: azure;
+}
+.about {
+    margin-bottom: 15px;
+    min-height: 400px;
+}
+.about img{
+    float: right;
+    margin-left: 40px;
+    margin-right: 50px;
+    height: 300px
+}
+
+.contact img {
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+.contact p {
+    margin-left: 450px;
+    color:gold;
+}
+body {
+    width: 70%;
+    background-image: url('/assets/images/back4.jpeg');
+    border:5px solid white;
+    border-radius: 5px;
+}
+
+.product-image {
+    display: flex;
+    background-color: bisque;
+    text-align: center;
+    justify-content: space-around;
+    overflow: scroll;
+    max-height: 400px;
+}
+.product-image img {
+    height: 200px;
+    width: 250px;
+    margin: 15px;
+}
+.footer {
+    clear: both;
+    text-align: center;
+    background-color: gold;
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 200px;
+
+}
