@@ -106,7 +106,7 @@ li {
 }
 body {
     width: 70%;
-    background-image: url('/assets/images/back4.jpeg');
+    background-image: url('assets/images/back4.jpeg');
     border:5px solid white;
     border-radius: 5px;
     
